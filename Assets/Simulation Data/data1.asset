@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b28151dcd30294e90bb2e3c5175400, type: 3}
+  m_Name: data1
+  m_EditorClassIdentifier: 
+  ObjectData:
+  - Mass: 0.001
+    Radius: 1
+    Position: {x: 30, y: 0, z: 0}
+    Velocity: {x: 0, y: 0, z: 4.71}
+  - Mass: 100
+    Radius: 4
+    Position: {x: 0, y: 0, z: 0}
+    Velocity: {x: 0, y: 0, z: 0}
+  CreationType: 0
+  ObjectCount: 0
+  MaxMass: 0
+  MinMass: 0
+  StartVelocity: 0
+  MaxVelocity: 0
+  SpawnRadius: 0
+  CenterMass: 0.1
